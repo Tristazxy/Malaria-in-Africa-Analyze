@@ -21,7 +21,7 @@ source link: https://www.kaggle.com/datasets/lydia70/malaria-in-africa?resource=
 ### Note：No additional data cleaning is required for the table's data
 
 #### Q1:From 2007 to 2017, which are the countries with the highest malaria rates each year?
-![image]()
+![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/1.png)
     
 
 
