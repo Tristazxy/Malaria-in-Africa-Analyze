@@ -70,7 +70,9 @@ Uganda, Mozambique,Burundi, Ghana,and Nigeria are the top five countries with go
 ## Additional Resources:
 
 [What is malaria?](https://www.cdc.gov/malaria/about/faqs.html#:~:text=Malaria%20is%20a%20serious%20and,humans%3A%20Plasmodium%20falciparum%2C%20P.)
+
 This resource provides information on the transmission routes and viral principles that cause malaria. It also explains which populations are susceptible to infection and the symptoms of infection. This site was created to prevent and control dangerous diseases.
 
 [Is Africa losing ground in the battle for water and sanitation?](https://www.washingtonpost.com/politics/2022/01/28/is-africa-losing-ground-battle-water-sanitation/)
+
 This article in Washington reported that the water quality in Africa is getting worse under the extreme shortage of water, because of the lack of water, so the toilets are not available, leading to the growth of bacteria and viruses.
