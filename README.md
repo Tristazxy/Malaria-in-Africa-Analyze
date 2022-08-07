@@ -16,7 +16,7 @@ source link: https://www.kaggle.com/datasets/lydia70/malaria-in-africa?resource=
 	* Email: lawrence.tabak@nih.gov
 	* Lawrence Tabak is the director for National Institution Health. This government agency will provide malaria awareness and recent malaria protection precautions.
     
-## Data Analysis
+## Data Analysis an Visulization
 
 ### Note：No additional data cleaning is required for the table's data
 
