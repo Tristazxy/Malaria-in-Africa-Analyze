@@ -7,11 +7,11 @@ Malaria has long been one of the most deadly diseases on the African continent. 
 source link: https://www.kaggle.com/datasets/lydia70/malaria-in-africa?resource=download
 
 ### Interview Contect Info
-	1) Peter Singer, The Life You Can Save Orgnization Founder, also a Professor at University of Melbourne and University of Oxford
+1) Peter Singer, The Life You Can Save Orgnization Founder, also a Professor at University of Melbourne and University of Oxford
 	* Phone number: 609-258-2202
 	* Email: psinger@princeton.edu
 	* The life you can save organization distributes mosquito nets and insecticides to 36 countries and has been working to combat the spread of malaria.
-	2) Lawrence Tabak, Performing the Duties of the NIH Director
+2) Lawrence Tabak, Performing the Duties of the NIH Director
 	* Phone Number: 301-496-7322 
 	* Email: lawrence.tabak@nih.gov
 	* Lawrence Tabak is the director for National Institution Health. This government agency will provide malaria awareness and recent malaria protection precautions.
