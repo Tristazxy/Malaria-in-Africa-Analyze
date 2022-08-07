@@ -20,8 +20,15 @@ source link: https://www.kaggle.com/datasets/lydia70/malaria-in-africa?resource=
 
 ### Note：No additional data cleaning is required for the table's data
 
-#### Q1:From 2007 to 2017, which are the countries with the highest malaria rates each year?
+#### Q1:From 2007 to 2017, which are the countries with the highest malaria case report each year?
+
+First I download the data to Excel, since I want to find out the each years' highest report, I select each years's malaria case report column，and sort by a descending order. I also highlighted the highest report case for each year and the country's name.
+
+![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/2.png)
+![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/3.png)
 ![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/1.png)
-    
+
+From these charts we conclude that there is an overall upward trend in the number of people with malaria each year, with the exception of 2007 and 2008, congo, Dem, Republican has been the most reported country for malaria, with nearly nine times more people getting malaria in the country from 2009 to 2017. 2016 was the year with the highest number of malaria cases in congo,Dem,Republican with 16,821,130 cases.
+
 
 
