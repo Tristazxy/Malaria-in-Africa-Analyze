@@ -7,15 +7,15 @@ source link: https://www.kaggle.com/datasets/lydia70/malaria-in-africa?resource=
 
 ### Interview Contect Info
 	1) Peter Singer, The Life You Can Save Orgnization Founder, also a Professor at University of Melbourne and University of Oxford
-	* Phone number: (609) 258-2202
+	* Phone number: 609-258-2202
 	* Email: psinger@princeton.edu
 	* The life you can save organization distributes mosquito nets and insecticides to 36 countries and has been working to combat the spread of malaria.
 	2) Lawrence Tabak, Performing the Duties of the NIH Director
+	* Phone Number: 301-496-7322 
 	* Email: lawrence.tabak@nih.gov
-	* Phone Number: (530) 478-6400 ext. 2045
-	* Turner is the official contact for the Nevada County Public Health’s annual Back-to-School Immunization Clinic. I want to ask Turner about the school’s stance on current vaccination rates for kindergarteners and what outreach efforts are in progress to improve statistics. Turner is key in learning about the strengths and weaknesses of ongoing solutions.
-
+	* Lawrence Tabak is the director for National Institution Health. This government agency will provide malaria awareness and recent malaria protection precautions.
     
+##
     
 
 
