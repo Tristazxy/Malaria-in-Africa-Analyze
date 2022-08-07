@@ -55,6 +55,9 @@ According to the chart it can be seen that Incidence of malaria in 2017 is signi
 
 since we know from Q1 that COngo, Dem. Rep is the country with the highest malaria report for 9 years from 2009 to 2017, therefore their population trend will show how badly the malaria has effect this country. I compared both rural and urban pupulation by using pivot table, I put the year as the row and country name as the colunm. Then I put the main data of rural and urban population to the value. After that I create a line graph for visulize the population trend for Oongo, Dem , Rep.
 
-![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/7.png)
 ![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/8.png)
+![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/7.png)
 
+The graph illustrate the population for urban has been increase, the rural population have a contrary trend. By notice those two line start their change form 2011, after 2014 the line becomes slightly steeper. By predic the reason for this phenomenon, the access for safetly water and sanitation is essential, the city must have more resorces compare with rural, so the rural population will be more decrease if there is lack of help for them.
+
+#### Q5:
