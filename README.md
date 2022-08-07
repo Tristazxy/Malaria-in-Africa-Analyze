@@ -42,5 +42,7 @@ Link: https://datawrapper.dwcdn.net/bowgO/1/
 
 The map shows that the southwest and central regions are at the highest risk of malaria, with the highest proportion of malaria. The northern and southern parts of Africa have very little chance of contracting malaria, and Egypt has a near zero risk. a black and purple section next to the Democrtic republic of the congo is Rwanda, which has a near maximum chance of contracting 550.
 
-#### Q3:
+#### Q3: Find out the average Incidence of malaria in all Africa countries in 2013 and 2017.
+
+In this quetsion, I select 2013 and 2017 as comparison is becasue the artemisinin 
 
