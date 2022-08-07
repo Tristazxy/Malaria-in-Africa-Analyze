@@ -60,4 +60,10 @@ since we know from Q1 that COngo, Dem. Rep is the country with the highest malar
 
 The graph illustrate the population for urban has been increase, the rural population have a contrary trend. By notice those two line start their change form 2011, after 2014 the line becomes slightly steeper. By predic the reason for this phenomenon, the access for safetly water and sanitation is essential, the city must have more resorces compare with rural, so the rural population will be more decrease if there is lack of help for them.
 
-#### Q5:
+#### Q5:For people who get malaria in africa, Which countries have good treatment for children with the disease and pregnant women？
+
+I use excel to solve this question, First I created a column for calcualate the people who got malaria but with a good treatments. The formula is by select the children with the disease percentage times the malaria report then add the pregnant women who have disease times the malaria report. After get the result for people who can receive good treatment ater get the disease, by using sort to descending the colunm. 
+![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/9.png)
+
+Uganda, Mozambique,Burundi, Ghana,and Nigeria are the top five countries with good treatment for people who effect the malaria. Uganda performed particularly well, as it saved more sick children and pregnant women in two consecutive years in 2015 and 2016, respectively. Notably, uganda saved nearly 2 million more people than Mozambique, which came in second place. 
+
