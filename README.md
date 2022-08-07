@@ -28,7 +28,11 @@ First I download the data to Excel, since I want to find out the each years' hig
 ![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/3.png)
 ![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/1.png)
 
-From these charts we conclude that there is an overall upward trend in the number of people with malaria each year, with the exception of 2007 and 2008, congo, Dem, Republican has been the most reported country for malaria, with nearly nine times more people getting malaria in the country from 2009 to 2017. 2016 was the year with the highest number of malaria cases in congo,Dem,Republican with 16,821,130 cases.
+From these charts we conclude that there is an overall upward trend in the number of people with malaria each year, with the exception of 2007 and 2008, congo,Dem,Republican has been the most reported country for malaria, with nearly nine times more people getting malaria in the country from 2009 to 2017. 2016 was the year with the highest number of malaria cases in congo,Dem,Republican with 16,821,130 cases.
+
+#### Q2:By using the Choropleth map show the malaria severity of countries in africa.
+
+In this question I want to use data visulization to intuitively observe the extent to which each country in Africa is affected by malaria.
 
 
 
