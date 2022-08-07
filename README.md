@@ -45,4 +45,6 @@ The map shows that the southwest and central regions are at the highest risk of 
 #### Q3: Find out the average Incidence of malaria in all Africa countries in 2013 and 2017.
 
 In this quetsion, I select 2013 and 2017 as comparison is becasue the artemisinin 
+![image]（https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/5.png）
+
 
