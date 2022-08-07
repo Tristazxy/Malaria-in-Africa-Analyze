@@ -6,5 +6,7 @@ Malaria has long been one of the most deadly diseases on the African continent. 
 source link: https://www.kaggle.com/datasets/lydia70/malaria-in-africa?resource=download
 
 ### Interview Contect Info
+Peter Singer, The Life You Can Save Orgnization Founder
+    
 
 
