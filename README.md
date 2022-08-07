@@ -34,5 +34,8 @@ From these charts we conclude that there is an overall upward trend in the numbe
 
 In this question I want to use data visulization to intuitively observe the extent to which each country in Africa is affected by malaria.
 
+Link: https://datawrapper.dwcdn.net/bowgO/1/
+
+![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/4.png)
 
 
