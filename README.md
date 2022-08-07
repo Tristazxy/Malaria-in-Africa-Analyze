@@ -34,8 +34,13 @@ From these charts we conclude that there is an overall upward trend in the numbe
 
 In this question I want to use data visulization to intuitively observe the extent to which each country in Africa is affected by malaria.
 
+I use datawrapper to create a choropleth map, first I need to select my map, in this case I chose Africa. Then, I upload my data for visulization,by selecting the colunm of the incidence of malaria, the map automatically generated. In anotate, I clicked the map label botton for show up countries name, I also did the continouse type to make the infection region more clear.
+
 Link: https://datawrapper.dwcdn.net/bowgO/1/
 
 ![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/4.png)
 
+The map shows that the southwest and central regions are at the highest risk of malaria, with the highest proportion of malaria. The northern and southern parts of Africa have very little chance of contracting malaria, and Egypt has a near zero risk. a black and purple section next to the Democrtic republic of the congo is Rwanda, which has a near maximum chance of contracting 550.
+
+#### Q3:
 
