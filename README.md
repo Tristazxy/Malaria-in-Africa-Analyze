@@ -75,4 +75,4 @@ This resource provides information on the transmission routes and viral principl
 
 [Is Africa losing ground in the battle for water and sanitation?](https://www.washingtonpost.com/politics/2022/01/28/is-africa-losing-ground-battle-water-sanitation/)
 
-This article in Washington reported that the water quality in Africa is getting worse under the extreme shortage of water, because of the lack of water, so the toilets are not available, leading to the growth of bacteria and viruses.
+This article in Washington reported that the water quality in Africa is getting worse under the extreme shortage of water, because of the lack of water, so the toilets are not available, leading to the growth of bacteria and viruses. Because my story data has information about water sources and sanitation across Africa, this story can help understand the reasons for Africa's water scarcity. 
