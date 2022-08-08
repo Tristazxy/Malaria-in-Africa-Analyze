@@ -53,7 +53,7 @@ According to the chart it can be seen that Incidence of malaria in 2017 is signi
 
 #### Q4:What’s the population trend for Congo, Dem. Rep.
 
-since we know from Q1 that COngo, Dem. Rep is the country with the highest malaria report for 9 years from 2009 to 2017, therefore their population trend will show how badly the malaria has effect this country. I compared both rural and urban pupulation by using pivot table, I put the year as the row and country name as the colunm. Then I put the main data of rural and urban population to the value. After that I create a line graph for visulize the population trend for Oongo, Dem , Rep.
+since we know from Q1 that COngo, Dem. Rep is the country with the highest malaria report for 9 years from 2009 to 2017, therefore their population trend will show how badly the malaria has effect this country. I compared both rural and urban pupulation by using pivot table, I put the year as the row and country name as the colunm. Then I put the main data of rural and urban population to the value. After that I create a line graph for visulize the population trend for Congo, Dem , Rep.
 
 ![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/8.png)
 ![image](https://raw.githubusercontent.com/Tristazxy/Malaria-in-Africa-Analyze/main/images/7.png)
